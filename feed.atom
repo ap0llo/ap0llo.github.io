@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-	<id>https://grynwald.net/</id>
-	<title>grynwald.net</title>
-	<link rel="self" href="https://grynwald.net/" />
-	<rights>2019</rights>
-	<updated>2019-08-11T21:10:03Z</updated>
-	<subtitle>Andreas Grünwald's personal blog</subtitle>
-</feed>
